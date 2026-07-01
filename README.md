@@ -1,2 +1,24 @@
-# python-codes
-A collection of Python programs, practice problems, algorithms, and mini projects for learning and improving Python programming skills.
+# Python Practice
+
+This repository contains my Python practice programs, algorithms, problem-solving exercises, and mini projects.
+
+## Topics
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Recursion
+- Strings
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- File Handling
+- Object-Oriented Programming
+- Exception Handling
+- Modules
+- Mini Projects
+
+## Author
+Prabin Yadav
