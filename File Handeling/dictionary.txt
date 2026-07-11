@@ -1,0 +1,5 @@
+Python is amazing.
+File handling is important in Python.
+Practice makes perfect.
+Always keep learning.
+Believe in Yourself.
