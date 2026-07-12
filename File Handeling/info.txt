@@ -1,0 +1,3 @@
+This is Python file handling.
+We are writing three lines of text.
+Written successfully!
