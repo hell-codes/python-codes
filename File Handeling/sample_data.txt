@@ -1,0 +1,10 @@
+Line 1: Python is powerful.
+Line 2: File handling is fun.
+Line 3: Practice makes perfect.
+Line 4: Always indent properly.
+Line 5: Errors teach valuable lessons.
+Line 6: Keep learning new things.
+Line 7: Debugging sharpens your logic.
+Line 8: Simplicity is the key.
+Line 9: Code with consistency.
+Line 10: Finish strong!
