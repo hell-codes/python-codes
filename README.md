@@ -1,6 +1,6 @@
 # python-codes
 
-This repository contains my Python practice programs, algorithms, problem-solving exercises, and mini projects.
+This repository contains my python-codes programs, algorithms, problem-solving exercises, and mini projects.
 
 ## Topics
 - Variables & Data Types
