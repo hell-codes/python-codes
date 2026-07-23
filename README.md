@@ -1,4 +1,4 @@
-# Python Practice
+# python-codes
 
 This repository contains my Python practice programs, algorithms, problem-solving exercises, and mini projects.
 
